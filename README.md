@@ -1,2 +1,2 @@
 # GroovyExercise
-Groovy语言学习记录
+Groovy学习记录
